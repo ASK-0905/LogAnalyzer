@@ -1,0 +1,10 @@
+2024-06-10 08:00:01 INFO Server started
+2024-06-10 08:05:12 INFO User login successful
+2024-06-10 08:10:33 WARN Memory usage at 82%
+2024-06-10 08:15:44 ERROR Database connection failed
+THIS IS A BAD LOG LINE
+2024-06-10 08:20:55 ERROR API timeout
+2024-06-10 08:25:01 INFO Payment completed
+BAD DATA
+2024-06-10 08:30:22 WARN Disk usage at 91%
+2024-06-10 08:35:30 INFO User logout
